@@ -1,7 +1,7 @@
 {
   "name": "beesbeesbees",
   "version": "1.0.0",
-  "description": "",
+  "description": "bees bees bees",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -16,5 +16,14 @@
     "jquery": "^3.2.1",
     "mocha": "^3.5.0",
     "underscore": "^1.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/mcsp-inheritance-exercise-I.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gSchool/mcsp-inheritance-exercise-I/issues"
+  },
+  "homepage": "https://github.com/gSchool/mcsp-inheritance-exercise-I#readme"
 }
